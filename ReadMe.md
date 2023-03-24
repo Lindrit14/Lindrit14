@@ -1,5 +1,5 @@
 # 💫 About Me:
-:student: I'm currently working on a school project<br><br>
+:student: Welcome to my GitHub profile! I am a Computer Science student at FHcampus with a passion for technology and innovation. I am always seeking new challenges and opportunities to expand my skills and knowledge. On my GitHub profile, you will find a collection of my personal and academic projects, showcasing my ability to solve real-world problems, design user-friendly interfaces, and collaborate effectively with others. I am a quick learner, a team player, and a critical thinker, eager to explore new areas of technology and contribute to open-source projects that make a positive impact.<br><br>
 
 
 ## 🌐 Socials:
