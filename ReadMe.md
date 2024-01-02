@@ -1,4 +1,4 @@
-Hi 👋 My name is Lindrit Prekaj
+Hi 👋 My name is Lindrit 
 ===============================
 
 Computer Science Student
